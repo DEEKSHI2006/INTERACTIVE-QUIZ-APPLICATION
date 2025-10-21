@@ -1,10 +1,10 @@
 # INTERACTIVE-QUIZ-APPLICATION
-**COMPANY** CODTECH IT SOLUTIONS
-**NAME** DEEKSHITHA S
-**INTERN ID** CT08DR765
-**DOMAIN** FRONTEND WEB DEVELOPMENT
-**DURATION** 8 WEEKS
-**MENTOR** NEELA SANTOSH
+**COMPANY** CODTECH IT SOLUTIONS<br/>
+**NAME** DEEKSHITHA S<br/>
+**INTERN ID** CT08DR765<br/>
+**DOMAIN** FRONTEND WEB DEVELOPMENT<br/>
+**DURATION** 8 WEEKS<br/>
+**MENTOR** NEELA SANTOSH<br/>
 Overview
 
 The Interactive Quiz App is a fun and engaging web-based application built with HTML, CSS, and JavaScript that allows users to test their knowledge through an intuitive and visually appealing quiz interface. It is designed to be dynamic, responsive, and easy to use — perfect for students, educators, and anyone who loves learning through interactive experiences.
