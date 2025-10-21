@@ -66,3 +66,5 @@ Saving user scores and progress using local storage or Firebase.
 🙌 Conclusion
 
 The Interactive Quiz App demonstrates how core web technologies can be combined to build an engaging and educational application. It’s a great foundation for anyone looking to learn JavaScript interactivity, DOM manipulation, and UI design. Whether used for fun, education, or portfolio demonstration, this app showcases how clean code and thoughtful design can make learning enjoyable.
+<img width="1280" height="583" alt="image" src="https://github.com/user-attachments/assets/db02df24-7472-440b-bb5e-e5745cdae28d" />
+
